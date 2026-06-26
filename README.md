@@ -50,15 +50,15 @@ The objective is to identify patterns, trends, and clusters among Samsung smartp
 
 ### K-Means Clustering
 
-![KMeans](images/kmeans.png)
+![KMeans](images/kmeans_clusters.png)
 
 ### PCA Visualization
 
-![PCA](images/pca.png)
+![PCA](images/pca_visualization.png)
 
 ### Clustering Algorithm Comparison
 
-![Comparison](images/comparison.png)
+![Comparison](images/algorithm_comparison.png)
 
 ---
 
