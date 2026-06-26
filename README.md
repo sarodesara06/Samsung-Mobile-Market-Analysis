@@ -42,6 +42,26 @@ The objective is to identify patterns, trends, and clusters among Samsung smartp
 
 ---
 
+## 📸 Project Screenshots
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### K-Means Clustering
+
+![KMeans](images/kmeans.png)
+
+### PCA Visualization
+
+![PCA](images/pca.png)
+
+### Clustering Algorithm Comparison
+
+![Comparison](images/comparison.png)
+
+---
+
 ## 🎯 Results
 
 - Best clustering algorithm: **K-Means**
